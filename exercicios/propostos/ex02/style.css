@@ -1,0 +1,10 @@
+@charset 'UTF-8';
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+  width: 160px;
+  height: 80px;
+  font-size: 16px;
+}
